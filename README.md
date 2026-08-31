@@ -6,7 +6,6 @@
 
 An auditable framework for translating the latent reward learned by a DreamerV3 controller into explicit, physically meaningful objective terms.
 
-[![Paper](https://img.shields.io/badge/Paper-Preprint-b31b1b.svg)](#citation)
 [![World Model](https://img.shields.io/badge/World_Model-DreamerV3-5b5bd6.svg)](#method)
 [![Surrogate](https://img.shields.io/badge/Surrogate-Additive_KAN-0f766e.svg)](#method)
 [![Application](https://img.shields.io/badge/Application-Underwater_Robotics-0369a1.svg)](#experimental-setting)
@@ -118,10 +117,6 @@ The deployed controller and its recorded trajectories remain unchanged throughou
 
 For the evaluated controller, 83.6% of the recovered objective corresponds to the written reward. The remaining 16.4% reveals learned dependence on quantities omitted from the specification, providing a concrete target for engineering review and future online monitoring.
 
-## Repository Status
-
-This README summarizes the manuscript and its reported evaluation. The manuscript does not specify a public release location for source code, trained checkpoints, or the recorded episode dataset. Add those artifacts here only when they are available and verified.
-
 ## Citation
 
 If you use this work, please cite the preprint:
@@ -131,7 +126,7 @@ If you use this work, please cite the preprint:
   title   = {ROVER: Recovering the Realised Objective of a World-Model Controller for Underwater Vehicles},
   author  = {Zhang, Tianze and Wu, Lei and Lou, Min and Yu, Xiang and Tao, Xiaowen},
   year    = {2026},
-  note    = {Preprint}
+  note    = {Submitted to Ocean Engineering}
 }
 ```
 ---
