@@ -134,17 +134,6 @@ If you use this work, please cite the preprint:
   note    = {Preprint}
 }
 ```
-
-## Authors
-
-- Tianze Zhang — China University of Petroleum (East China)
-- Lei Wu — China University of Petroleum (East China)
-- Min Lou — China University of Petroleum (East China)
-- Xiang Yu — China University of Petroleum (East China)
-- Xiaowen Tao — Trinity College Dublin
-
-Correspondence: `zhangtianze@upc.edu.cn` · `taox@tcd.ie`
-
 ---
 
 <div align="center">
